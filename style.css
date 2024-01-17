@@ -32,7 +32,7 @@
 }
 .container button{
     display: flex;
-    align-items: centre;
+    align-items: center;
     background: linear-gradient(#9418fd, #571094);
     color:#fff;
     font-size: 16px;
